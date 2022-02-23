@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"9fe4e2c7d77f4a668312df22e72c3d1e","collectionName":"Kepler_APT_Total_incident_sent_by_group","type":"collection"}

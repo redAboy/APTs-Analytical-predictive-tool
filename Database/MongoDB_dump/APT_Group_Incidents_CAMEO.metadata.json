@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"a0e34f0c10774604994dfb77150bab69","collectionName":"APT_Group_Incidents_CAMEO","type":"collection"}

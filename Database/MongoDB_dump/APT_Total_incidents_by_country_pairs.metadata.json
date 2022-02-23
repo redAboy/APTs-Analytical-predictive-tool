@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"68c2650885ee47ddac013a10ba197a42","collectionName":"APT_Total_incidents_by_country_pairs","type":"collection"}
